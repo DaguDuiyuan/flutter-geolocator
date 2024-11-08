@@ -34,8 +34,8 @@ dependencies:
       path: geolocator_android
 
   geolocator_apple: ^2.3.7
-  geolocator_web: ^4.1.1
-  geolocator_windows: ^0.2.3
+  # Cgeolocator_web: ^4.1.1
+  # geolocator_windows: ^0.2.3
 
 dev_dependencies:
   flutter_test:
